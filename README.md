@@ -1,4 +1,4 @@
-*【document】[https://singluar.hunzsig.org](https://singluar.hunzsig.org)
+【document】[https://singluar.hunzsig.org](https://singluar.hunzsig.org)
 
 ### Assets仅作为初始化singluar项目的附加环节
 
