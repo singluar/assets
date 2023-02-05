@@ -1,6 +1,9 @@
-* 【document】[https://singluar.hunzsig.org](https://singluar.hunzsig.org)
+*【document】[https://singluar.hunzsig.org](https://singluar.hunzsig.org)
 
-SingluarAssets is just a gift of friendship.
-The code in Assets may be backward or have bugs.
-But this is just a gift. If you don't like it, you can delete it all and then rewrite your UI.
-If you use it, please solve all problems by yourself.
+### Assets仅作为初始化singluar项目的附加环节
+
+##### 此代码只是一份礼物，不保证无bug，请自行检查
+
+##### 如果你不喜欢里面的样式，请自行替换，或者直接删除改为编写你私人的资源库
+
+###### 使用此库若产生疑问，可自行解决
