@@ -1,0 +1,3 @@
+﻿*.BridgeLabelsAndRatings
+war3mapUI/*
+!war3mapUI/singluar_*
